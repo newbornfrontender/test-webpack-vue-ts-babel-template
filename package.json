@@ -1,0 +1,8 @@
+{
+  "name": "test-webpack-vue-ts-babel-template",
+  "version": "1.0.0",
+  "description": "Тестовый шаблон на Webpack 4 (на TS для удобства поддержки) для Vue проектов с использованием TypeScript (для типов) и Babel (для транспайлинга)",
+  "repository": "https://github.com/newbornfrontender/test-webpack-vue-ts-babel-template.git",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT"
+}
