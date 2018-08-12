@@ -8,4 +8,4 @@
 <!-- Блок с лицензией  -->
 <h2 align="center">Лицензия</h2>
 
-MIT
+<a title="Лицензия" href="/LICENSE" hreflang="en">MIT</a>
